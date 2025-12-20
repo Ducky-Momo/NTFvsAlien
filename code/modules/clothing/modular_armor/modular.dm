@@ -123,6 +123,7 @@
 		/obj/item/armor_module/armor/chest/marine/assault/invis,
 
 		/obj/item/armor_module/module/better_shoulder_lamp,
+		/obj/item/armor_module/module/valkyrie_autodoc/som,
 		/obj/item/armor_module/module/valkyrie_autodoc,
 		/obj/item/armor_module/module/fire_proof,
 		/obj/item/armor_module/module/tyr_extra_armor,
@@ -134,10 +135,15 @@
 		/obj/item/armor_module/module/chemsystem,
 		/obj/item/armor_module/module/knight,
 		/obj/item/armor_module/module/eshield,
+		/obj/item/armor_module/module/eshield/som,
 		/obj/item/armor_module/module/eshield/absorbant/energy,
 		/obj/item/armor_module/module/eshield/absorbant/ballistic,
 		/obj/item/armor_module/module/mirage,
 		/obj/item/armor_module/module/armorlock,
+		/obj/item/armor_module/module/fire_proof/som,
+		/obj/item/armor_module/module/tyr_extra_armor/som,
+		/obj/item/armor_module/module/knight/som,
+		/obj/item/armor_module/module/mimir_environment_protection/som,
 
 		/obj/item/armor_module/storage/general,
 		/obj/item/armor_module/storage/ammo_mag,
@@ -249,6 +255,7 @@
 	slowdown = -0.5
 	attachments_allowed = list(
 		/obj/item/armor_module/module/better_shoulder_lamp,
+		/obj/item/armor_module/module/valkyrie_autodoc/som,
 		/obj/item/armor_module/module/valkyrie_autodoc,
 		/obj/item/armor_module/module/fire_proof,
 		/obj/item/armor_module/module/tyr_extra_armor,
@@ -259,11 +266,17 @@
 		/obj/item/armor_module/module/ballistic_armor,
 		/obj/item/armor_module/module/chemsystem,
 		/obj/item/armor_module/module/eshield,
+		/obj/item/armor_module/module/eshield/som,
 		/obj/item/armor_module/module/eshield/absorbant/energy,
 		/obj/item/armor_module/module/eshield/absorbant/ballistic,
 		/obj/item/armor_module/module/mirage,
 		/obj/item/armor_module/module/armorlock,
 		/obj/item/armor_module/module/knight,
+		/obj/item/armor_module/module/fire_proof/som,
+		/obj/item/armor_module/module/tyr_extra_armor/som,
+		/obj/item/armor_module/module/knight/som,
+		/obj/item/armor_module/module/mimir_environment_protection/som,
+
 
 		/obj/item/armor_module/storage/general,
 		/obj/item/armor_module/storage/ammo_mag,
@@ -311,6 +324,7 @@
 		/obj/item/armor_module/armor/legs/marine/hardsuit_legs/syndicate_markone,
 
 		/obj/item/armor_module/module/better_shoulder_lamp,
+		/obj/item/armor_module/module/valkyrie_autodoc/som,
 		/obj/item/armor_module/module/valkyrie_autodoc,
 		/obj/item/armor_module/module/fire_proof,
 		/obj/item/armor_module/module/tyr_extra_armor,
@@ -321,10 +335,16 @@
 		/obj/item/armor_module/module/ballistic_armor,
 		/obj/item/armor_module/module/chemsystem,
 		/obj/item/armor_module/module/eshield,
+		/obj/item/armor_module/module/eshield/som,
 		/obj/item/armor_module/module/eshield/absorbant/energy,
 		/obj/item/armor_module/module/eshield/absorbant/ballistic,
 		/obj/item/armor_module/module/mirage,
 		/obj/item/armor_module/module/armorlock,
+		/obj/item/armor_module/module/fire_proof/som,
+		/obj/item/armor_module/module/tyr_extra_armor/som,
+		/obj/item/armor_module/module/knight/som,
+		/obj/item/armor_module/module/mimir_environment_protection/som,
+
 
 		/obj/item/armor_module/storage/general,
 		/obj/item/armor_module/storage/ammo_mag,
@@ -366,6 +386,7 @@
 		/obj/item/armor_module/armor/chest/marine/vsd_hardsuit/aphrodite,
 
 		/obj/item/armor_module/module/better_shoulder_lamp,
+		/obj/item/armor_module/module/valkyrie_autodoc/som,
 		/obj/item/armor_module/module/valkyrie_autodoc,
 		/obj/item/armor_module/module/fire_proof,
 		/obj/item/armor_module/module/mimir_environment_protection,
@@ -374,10 +395,16 @@
 		/obj/item/armor_module/module/ballistic_armor,
 		/obj/item/armor_module/module/chemsystem,
 		/obj/item/armor_module/module/eshield,
+		/obj/item/armor_module/module/eshield/som,
 		/obj/item/armor_module/module/mirage,
 		/obj/item/armor_module/module/armorlock,
 		/obj/item/armor_module/module/eshield/absorbant/energy,
 		/obj/item/armor_module/module/eshield/absorbant/ballistic,
+		/obj/item/armor_module/module/fire_proof/som,
+		/obj/item/armor_module/module/tyr_extra_armor/som,
+		/obj/item/armor_module/module/knight/som,
+		/obj/item/armor_module/module/mimir_environment_protection/som,
+
 
 		/obj/item/armor_module/storage/general,
 		/obj/item/armor_module/storage/ammo_mag,
